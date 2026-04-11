@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BluePoch.cpp.obj": [
+			"BluePoch.cpp.obj"
+		]
+	}
+}

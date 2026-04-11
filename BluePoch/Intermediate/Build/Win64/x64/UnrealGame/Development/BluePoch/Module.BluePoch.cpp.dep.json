@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\bluepoch_test\\bluepoch\\intermediate\\build\\win64\\x64\\unrealgame\\development\\bluepoch\\module.bluepoch.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\bluepoch_test\\bluepoch\\intermediate\\build\\win64\\x64\\bluepoch\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\github\\bluepoch_test\\bluepoch\\intermediate\\build\\win64\\x64\\unrealgame\\development\\bluepoch\\definitions.bluepoch.h",
+            "e:\\github\\bluepoch_test\\bluepoch\\intermediate\\source\\bluepoch.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

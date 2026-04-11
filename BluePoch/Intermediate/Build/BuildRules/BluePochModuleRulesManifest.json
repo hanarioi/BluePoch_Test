@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Github\\BluePoch_Test\\BluePoch\\Intermediate\\Source\\BluePoch.Build.cs",
+		"E:\\Github\\BluePoch_Test\\BluePoch\\Intermediate\\Source\\BluePoch.Target.cs",
+		"E:\\Github\\BluePoch_Test\\BluePoch\\Intermediate\\Source\\BluePochClient.Target.cs",
+		"E:\\Github\\BluePoch_Test\\BluePoch\\Intermediate\\Source\\BluePochEditor.Target.cs",
+		"E:\\Github\\BluePoch_Test\\BluePoch\\Intermediate\\Source\\BluePochServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
